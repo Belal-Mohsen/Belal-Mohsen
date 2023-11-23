@@ -1,4 +1,4 @@
-# Hi! My name is Belal Mohsen 👋
+# Hi! My name is Belal 👋
 
 🌍 I am a Software Developer and Computer Engineer based in Montreal, Canada.
 <br/>
