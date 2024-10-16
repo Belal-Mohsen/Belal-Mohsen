@@ -1,6 +1,6 @@
 # Hi! My name is Belal 👋
 
-🌍 I am an AI enginner based in Montreal, Canada.
+🌍 I am an AI engineer based in Montreal, Canada.
 <br/>
 
 ### Skills
