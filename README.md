@@ -1,4 +1,4 @@
-# Hi! My name is Belal 👋
+# Hi! 👋
 ### Socials
 
 <div id="badges">
